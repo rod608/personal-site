@@ -80,9 +80,9 @@ const Hero = () => {
         </a>{' '}
         this summer as a software engineer intern after a successful internship last summer.
         <br></br>
-        <br></br>I am also{' '}
-        <a href="#jobs">currently seeking entry-level software engineering roles</a> as I expect to
-        graduate in December 2024 with a bachelor of science in computer science!
+        <br></br>I am also currently <a href="#jobs">seeking entry-level roles</a> in software
+        development as I expect to graduate in December 2024 with a bachelor of science in computer
+        science!
       </p>
     </>
   );
