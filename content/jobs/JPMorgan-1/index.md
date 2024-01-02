@@ -1,7 +1,7 @@
 ---
 date: '2023-06-03'
 title: 'Software Engineer Intern'
-company: 'JPMorgan Chase & Co.'
+company: 'JPMorgan Chase'
 location: 'Columbus, OH'
 range: 'June - August 2023'
 url: 'https://www.chase.com/digital/resources/about-chase'

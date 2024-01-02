@@ -1,7 +1,7 @@
 ---
 date: '2022-01-17'
 title: 'Java Teaching Assistant'
-company: 'New Jersey Institute of Technology'
+company: 'NJIT'
 location: 'Newark, NJ'
 range: 'January - May 2022'
 url: 'https://cs.njit.edu/'
