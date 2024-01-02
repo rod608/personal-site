@@ -66,8 +66,8 @@ const Hero = () => {
     <>
       <p>
         I’m an aspiring software engineer and entrepreneur specializing in developing and designing
-        exceptional web applications. Currently, I’m focused on my academics, my upcoming software
-        engineer co-op experience with{' '}
+        exceptional web applications. Currently, I’m focused on my my upcoming software engineer
+        co-op with{' '}
         <a href="https://www.prudential.com/" target="_blank" rel="noreferrer">
           Prudential Financial
         </a>
@@ -79,12 +79,16 @@ const Hero = () => {
           JPMorgan Chase
         </a>{' '}
         this summer as a software engineer intern after a successful internship last summer.
+        <br></br>
+        <br></br>I am also{' '}
+        <a href="#jobs">currently seeking entry-level software engineering roles</a> as I expect to
+        graduate in December 2024 with a bachelor of science in computer science!
       </p>
     </>
   );
   const five = (
-    <a className="email-link" href="#about">
-      Learn more about me!
+    <a className="email-link" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+      View My Resume!
     </a>
   );
 
