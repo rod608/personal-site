@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['TypeScript', 'JavaScript (ES6+)', 'Next.js', 'React', 'Python', 'Tailwind'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,31 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hey! My name is Rodney and I enjoy creating things that live on the internet. My
+              interest in web development started back in 2019 when I decided to try FreeCodeCamp's
+              courses on HTML &amp; CSS — turns out you can learn a lot about web development for
+              free!
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Fast-forward to today, and I’ve had the privilege of working as a software engineer
+              intern at{' '}
+              <a href="https://www.chase.com/digital/resources/about-chase">JPMorgan Chase</a>. My
+              team and I were able to recreate and optimize their credit card application website,
+              consequently reducing initial load speed by half. I'm grateful that I made the most of
+              the opportunity and I am proud to say that I'll be returning to JPMorgan Chase this
+              summer.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              I am also in the process of beginning my software engineer &amp; and data co-op
+              experience within{' '}
+              <a href="https://www.prudential.com/" target="_blank" rel="noreferrer">
+                Prudential Financial's
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              global technology as well as launching my web development agency,{' '}
+              <a href="https://jerseycitywebdesigns.com/">Jersey City Web Designs</a>, with the goal
+              of helping other small businesses with their online presence.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
