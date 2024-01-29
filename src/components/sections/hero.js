@@ -65,9 +65,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Currently, I’m focused on my academics, an upcoming software engineer &amp; data co-op with{' '}
+        I’m currently focused on my academics, my position as a software engineer co-op associate
+        with{' '}
         <a href="https://www.prudential.com/" target="_blank" rel="noreferrer">
-          Prudential Financial
+          Prudential
         </a>
         , and preparing for my return to{' '}
         <a
@@ -78,8 +79,11 @@ const Hero = () => {
         </a>{' '}
         this summer as a software engineer intern.
         <br></br>
-        <br></br>I am also currently <a href="#jobs">seeking entry-level roles</a> in software
-        development as I expect to graduate in December 2024!
+        <br></br>I am also currently{' '}
+        <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+          seeking entry-level roles
+        </a>{' '}
+        in software development as I expect to graduate in December 2024!
       </p>
     </>
   );

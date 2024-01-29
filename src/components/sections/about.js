@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['TypeScript', 'JavaScript (ES6+)', 'Next.js', 'React', 'Python', 'Tailwind'];
+  const skills = ['React', 'Next.js', 'JavaScript (ES6+)', 'TypeScript', 'Python', 'Tailwind'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,31 +135,32 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey! My name is Rodney and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2019 when I decided to try FreeCodeCamp's
-              courses on HTML &amp; CSS — turns out you can learn a lot about web development for
-              free!
+              👋🏼 Hey! I'm Rodney Nuñez, an aspiring software engineer who is set to graduate in
+              December 2024 🎓 with a CS degree from the New Jersey Institute of Technology. I'm
+              always eager to learn new things, collaborate with others to build innovative software
+              solutions, and use technology to solve real-world problems.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working as a software engineer
-              intern at{' '}
-              <a href="https://www.chase.com/digital/resources/about-chase">JPMorgan Chase</a>. My
-              team and I were able to recreate and optimize their credit card application website,
-              consequently reducing initial load speed by half. I'm grateful that I made the most of
-              the opportunity and I am proud to say that I'll be returning to JPMorgan Chase this
-              summer.
-            </p>
-
-            <p>
-              I am also in the process of beginning my software engineer &amp; and data co-op
-              experience within{' '}
-              <a href="https://www.prudential.com/" target="_blank" rel="noreferrer">
-                Prudential Financial's
+              My industry experience includes my current position as a software engineer co-op
+              associate at{' '}
+              <a href="https://www.chase.com/digital/resources/about-chase">Prudential Financial</a>{' '}
+              and a software engineer internship with JPMorgan Chase. I am currently heavily using
+              Python 🐍 to develop automated solutions for actuarial data models. At{' '}
+              <a
+                href="https://www.chase.com/digital/resources/about-chase"
+                target="_blank"
+                rel="noreferrer">
+                JPMorgan Chase
               </a>{' '}
-              global technology as well as launching my web development agency,{' '}
-              <a href="https://jerseycitywebdesigns.com/">Jersey City Web Designs</a>, with the goal
-              of helping other small businesses with their online presence.
+              , I halved the initial render time of a credit card web application 🌐 that averages 1
+              million monthly users using technologies such as Next.js, React, JavaScript,
+              TypeScript, and more.
+            </p>
+
+            <p>
+              My expertise lies in the realms of full-stack web development and Python. I am also
+              working towards obtaining an AWS Certified Cloud Practitioner certification ☁️
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -174,10 +175,10 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={500}
               quality={95}
-              formats={['AUTO', 'WEBP', 'AVIF']}
+              formats={['AUTO', 'PNG', 'WEBP', 'AVIF']}
               alt="Headshot"
             />
           </div>
