@@ -142,10 +142,10 @@ const About = () => {
             </p>
 
             <p>
-              My industry experience includes my current position as a software engineer co-op
+              My industry experience includes my current position as a Software Engineer Co-Op
               associate at{' '}
               <a href="https://www.chase.com/digital/resources/about-chase">Prudential Financial</a>{' '}
-              and a software engineer internship with JPMorgan Chase. I am currently heavily using
+              and a Software Engineer Internship with JPMorgan Chase. I am currently heavily using
               Python 🐍 to develop automated solutions for actuarial data models. At{' '}
               <a
                 href="https://www.chase.com/digital/resources/about-chase"
