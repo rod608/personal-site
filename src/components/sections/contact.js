@@ -60,9 +60,9 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I’m currently looking for entry-level software engineering opportunities as I will graduate.
-        Whether you have an opportunity or just want to say hi, I’ll get back to you as soon as
-        possible!
+        I’m currently looking for entry-level software engineering opportunities as I will graduate
+        in May 2025 🎓. Whether you have an opportunity in store or just want to say hello, reach
+        out and I’ll get back to you!
       </p>
 
       <a className="email-link" href={`${socialMedia[1]['url']}`}>

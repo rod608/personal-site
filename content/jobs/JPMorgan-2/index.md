@@ -7,4 +7,4 @@ range: 'June - August 2024'
 url: 'https://www.chase.com/digital/resources/about-chase'
 ---
 
-- Incoming next summer!
+- Incoming Summer 2024!

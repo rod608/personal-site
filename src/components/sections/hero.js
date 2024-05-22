@@ -65,24 +65,24 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m currently focused on my academics, and my position as a Software Engineer Co-Op with{' '}
-        <a href="https://www.prudential.com/" target="_blank" rel="noreferrer">
-          Prudential Financial
-        </a>
-        , and preparing for my return to{' '}
+        I’m currently focused on my academics, and preparing for my return to{' '}
         <a
           href="https://www.chase.com/digital/resources/about-chase"
           target="_blank"
           rel="noreferrer">
           JPMorgan Chase
         </a>{' '}
-        this summer as a Software Engineer Intern.
-        <br></br>
+        this summer as a Software Engineer Intern as well as my upcoming Software Engineer Co-Op
+        program with{' '}
+        <a href="https://www.hubspot.com/" target="_blank" rel="noreferrer">
+          HubSpot
+        </a>
+        .<br></br>
         <br></br>I am also currently{' '}
         <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
           seeking entry-level roles
         </a>{' '}
-        in software development as I expect to graduate in May 2025!
+        in software development as I expect to graduate in May 2025. Nice to meet you!
       </p>
     </>
   );

@@ -135,32 +135,31 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              👋🏼 Hey! I'm Rodney Nuñez, an aspiring software engineer who is set to graduate in
-              December 2024 🎓 with a CS degree from the New Jersey Institute of Technology. I'm
-              always eager to learn new things, collaborate with others to build innovative software
-              solutions, and use technology to solve real-world problems.
+              👋🏼 Hey! I'm Rodney Nuñez, an aspiring Software Engineer who is set to graduate in May
+              2025 🎓 with a Bachelor of Science in Computer Science from the New Jersey Institute
+              of Technology. I love tech, casual games, reality TV, and coding up software that
+              leaves an impact!
             </p>
 
             <p>
-              My industry experience includes my current position as a Software Engineer Co-Op
-              associate at{' '}
-              <a href="https://www.chase.com/digital/resources/about-chase">Prudential Financial</a>{' '}
-              and a Software Engineer Internship with JPMorgan Chase. I am currently heavily using
-              Python 🐍 to develop automated solutions for actuarial data models. At{' '}
-              <a
-                href="https://www.chase.com/digital/resources/about-chase"
-                target="_blank"
-                rel="noreferrer">
+              👨‍💻 My industry experience includes a Software Engineer Internship with{' '}
+              <a href="https://www.jpmorganchase.com/" target="_blank" rel="noreferrer">
                 JPMorgan Chase
               </a>{' '}
-              , I halved the initial render time of a credit card web application 🌐 that averages 1
-              million monthly users using technologies such as Next.js, React, JavaScript,
-              TypeScript, and more.
+              and a Software Engineer Co-Op with{' '}
+              <a href="https://www.prudential.com/" target="_blank" rel="noreferrer">
+                Prudential Financial
+              </a>
+              . At Prudential Financial, I extensively utilized Python 🐍 to develop automated
+              solutions for actuarial data models. At JPMorgan Chase, I halved the initial render
+              time of a client-facing credit card Web Application 🌐 that averages 1 million monthly
+              users, utilizing technologies such as Next.js, React, JavaScript, TypeScript, and
+              more.
             </p>
 
             <p>
-              My expertise lies in the realms of full-stack web development and Python. I am also
-              working towards obtaining an AWS Certified Cloud Practitioner certification ☁️
+              🛠️ My expertise lies in the realms of Full-Stack Web Development and Python. I am also
+              working towards obtaining an AWS Certified Cloud Practitioner Certification ☁️.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
