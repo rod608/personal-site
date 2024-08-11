@@ -142,7 +142,7 @@ const About = () => {
             </p>
 
             <p>
-              👨‍💻 My industry experience includes a Software Engineer Internship with{' '}
+              👨‍💻 My industry experience includes two Software Engineer Internships with{' '}
               <a href="https://www.jpmorganchase.com/" target="_blank" rel="noreferrer">
                 JPMorgan Chase
               </a>{' '}
@@ -154,7 +154,8 @@ const About = () => {
               solutions for actuarial data models. At JPMorgan Chase, I halved the initial render
               time of a client-facing credit card Web Application 🌐 that averages 1 million monthly
               users, utilizing technologies such as Next.js, React, JavaScript, TypeScript, and
-              more.
+              more. I also contributed to the modernization efforts of a legacy Java Desktop
+              Application ☕️ to a scalable React Web Application at JPMC.
             </p>
 
             <p>
